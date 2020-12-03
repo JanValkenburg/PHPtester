@@ -1,0 +1,24 @@
+{
+    "name": "JanValkenburg/PHPtester",
+    "description": "Module to Unit Test your PHP code in a simple way.",
+    "version": "1.0",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jan Valkenburg",
+            "email": "jan.valkenburg@gmail.com",
+            "homepage": "https://jv-dezign.com",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "jan.valkenburg@gmail.com",
+        "issues": "https://github.com/JanValkenburg/PHPtester/issues",
+        "source": "https://github.com/JanValkenburg/PHPtester",
+        "docs": "https://github.com/JanValkenburg/PHPtester/wiki"
+    },
+    "require": {
+        "php": "7.4.0"
+    }
+}
